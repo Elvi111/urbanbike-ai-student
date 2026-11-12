@@ -3,7 +3,7 @@ Raporti i studentit: UrbanBike AI
 Studenti: Elvin Mefaja,Ira Murataj,Ardion Jaupaj,Alesio Osmanaj 
 Data: 2026-11-11 
 GitHub-i im: https://github.com/Elvi111/urbanbike-ai-student
-LIDHJA_GITHUB Figma: LIDHJA_FIGMA
+Figma: (https://www.figma.com/design/yWzCQ2wy13GsEmeCU6yg0e/Untitled?node-id=0-1&m=dev&t=BVPLNpi2d8t6g1i7-1)
 
 Qëllimi
 
